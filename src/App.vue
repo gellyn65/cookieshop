@@ -2,7 +2,7 @@
   <div id="app">
     <h1>Sweet Cookies Shopping Cart</h1>
     <ProductsList :products="products" @add-to-cart="addToCart" />
-    <ShopCart :cart="cart" @update-quantity="updateQuantity" @remove-item="removeItem" /> -->
+    <ShopCart :cart="cart" @update-quantity="updateQuantity" @remove-item="removeItem" /> 
   </div>
 </template>
 
