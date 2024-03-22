@@ -14,7 +14,7 @@
         </div>
       </li>
     </ul>
-    <p class="total"><b>Total:</b> ${{ total }}</p>
+    <p class="total"><b>Total:</b> ₱{{ total }}</p>
   </div>
 </template>
 
